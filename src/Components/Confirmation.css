@@ -1,0 +1,139 @@
+h1,p{
+  
+    text-align: left;
+    color: rgb(18, 51, 114);
+}
+
+.confirm{
+    margin-top:20px;
+    margin-left: 70px;
+}
+.comment{
+    margin-left: 70px;
+}
+.feedback{
+    padding: 60px;
+    margin-left: 50px;
+}
+.confirmcontainer{
+    margin: 80px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 30)
+}
+.line{
+    width: 10%;
+    border: 2px solid red;
+}
+
+.ack{
+    margin-left: 120px;
+    font-size: 20px;
+    padding-top: -90px;
+}
+
+
+ 
+.stepul{
+    text-align: right;
+    position: relative;
+    overflow: hidden;
+  }
+  .stepul:before{
+    content: '';
+    width: 42%;
+    border: 1px solid rgb(161, 171, 180);
+    position: absolute;
+    top: 1em;
+    margin-top: -2px;
+    z-index: -1;
+    margin-left: 96px;
+  }
+ 
+  
+  .lic1{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .lic2{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+   
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .lic3{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+  
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .lic4{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+
+ 
+  /* body {
+    font-family: sans-serif;
+    padding: 2em;
+  }
+   */
+  .personallic{
+margin-right: 108px;
+display: inline;
+font-weight: bold;
+  }
+  .commentlic{
+    margin-right: 120px;
+    display: inline;
+    font-weight: bold;
+  }
+  .reviewlic{
+    margin-right: 96px;
+    display: inline;
+    font-weight: bold;
+  }
+  .confirmationlic{
+    margin-right: 64px;
+    display: inline;
+    font-weight: bold;
+  }
+
+  .stepsdiv{
+      text-align: right;
+      margin-top: -70px;
+  }
+  .airlinelogo{
+      margin-top: 10px;
+      width: 20%;
+      height: 20%;
+      float: right;
+      transform: rotate(20deg);
+  }

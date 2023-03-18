@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+/* h3{
+  margin: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: steelblue;
+} */
+p{
+  margin: 10px;
+}
+
+/* 
+input[type="text"],
+select.form-control {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+input[type="text"]:focus,
+select.form-control:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+} */
+.navtitle{
+  color: white;
+  font-family:sans-serif;
+  margin-left: 70px;
+}
+
+.navbar{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}

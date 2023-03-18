@@ -1,0 +1,196 @@
+.pinfo{
+    margin-top: 30px;
+    margin-right: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+ 
+    color: rgb(103, 88, 170);
+}
+.perp{
+    margin-left: 98px;
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   
+    color: rgb(103, 88, 170);
+}
+body{
+    background-color: rgb(209, 212, 218);
+}
+.container{
+    margin-left: 95px;
+    height: 650px;
+    margin-top: 40px;
+    background-color: white;
+    border: 2px ;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 30)
+    /* margin: 10px; */
+    
+   
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.underline{
+    text-decoration: underline;
+    padding-top: 10px;
+  text-align: left;
+  color:rgb(103, 88, 170);
+}
+
+.h6pi{
+    text-align: right;
+    color: rgb(103, 88, 170);
+}
+.identity{
+    text-align: left;
+    margin-left: 0%;
+    color: rgb(103, 88, 170);
+}
+b{
+    text-align: left;
+    margin-bottom: -20%;
+}
+.form-control{
+    border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        width: 50%;
+        color: rgb(103, 88, 170);
+}
+.form-select{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    width: 50%;
+    color: rgb(103, 88, 170);
+
+}
+
+.col-md-6 {
+    flex: 0 0 auto;
+    width: 34%;
+ 
+  }
+  .col-md-2{
+    flex: 0 0 auto;
+    width: 33%;
+   
+  
+  }
+  .col-md-4{
+    flex: 0 0 auto;
+    width: 33%;
+    
+   
+  }
+ .last{
+     text-align: center;
+ }
+ .continue{
+     background-color: red;
+     padding: 10px;
+     border: none;
+     color: white;
+     margin-top: 146px;
+     margin-bottom: 10px;
+     width: 20%;
+     margin-left: 400px;
+ }
+
+
+ 
+ .stepul{
+    text-align: right;
+    position: relative;
+    overflow: hidden;
+  }
+  .stepul:before{
+    content: '';
+    width: 42%;
+    border: 1px solid rgb(161, 171, 180);
+    position: absolute;
+    top: 1em;
+    margin-top: -2px;
+    z-index: -1;
+    margin-left: 96px;
+  }
+ 
+  
+  .li1{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+    
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .li2{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+   
+    background: rgb(162, 171, 190);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .li3{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+  
+    background: rgb(162, 171, 190);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .li4{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+    background: rgb(162, 171, 190);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+
+ 
+  /* body {
+    font-family: sans-serif;
+    padding: 2em;
+  }
+   */
+  .personalli{
+margin-right: 108px;
+display: inline;
+font-weight: bold;
+  }
+  .commentli{
+    margin-right: 120px;
+    display: inline;
+  }
+  .reviewli{
+    margin-right: 96px;
+    display: inline;
+  }
+  .confirmationli{
+    margin-right: 64px;
+    display: inline;
+  }
+
+  .stepsdiv{
+      text-align: right;
+      margin-top: -70px;
+  }

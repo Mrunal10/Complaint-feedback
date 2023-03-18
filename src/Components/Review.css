@@ -1,0 +1,337 @@
+.reviewcontainer1{
+    margin:80px;
+    background-color: white;
+    height: 200px;
+    padding-top: 40px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 30)
+}
+.reviewcontainer2{
+     margin:80px;
+    background-color: white;
+    height: 400px;
+    padding-top: 40px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 30)
+}
+.reviewcontainer3{
+    margin:80px;
+    background-color: white;
+    height: 500px;
+    padding-top: 40px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 30)
+}
+
+.reviewtitle{
+    margin-top: 30px;
+    margin-left: 97px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+ 
+    color: rgb(103, 88, 170);
+}
+.reviewpara{
+    margin-left: 98px;
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   
+    color: rgb(103, 88, 170);
+}
+.reviewexp{
+    margin-top: -10px;
+    float: left;
+    margin-left: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+ 
+    color: rgb(103, 88, 170);
+
+}
+.reviewfeed{
+    margin-top: -10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     text-align: center;
+     margin-left: 10px;
+    color: rgb(103, 88, 170);
+
+}
+.reviewperson{
+    margin-top: -10px;
+    float: left;
+    margin-left: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+ 
+    color: rgb(103, 88, 170);
+}
+
+.reviewcontact{
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     
+     margin-left: 530px;
+    color: rgb(103, 88, 170);
+
+}
+.reviewaddress{
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     
+     margin-left: 568px;
+    color: rgb(103, 88, 170);
+}
+.reviewname{
+    
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     float: left;
+     margin-left: 251px;
+    color: rgb(103, 88, 170);
+}
+
+.reviewcomplaint{
+    text-align: center;
+    margin-left: 230px;
+    color: rgb(103, 88, 170);
+}
+.reviewairprogram{
+    text-align: right;
+    margin-top: -148px;
+    margin-right: 48px;
+    color: rgb(103, 88, 170);
+    font-weight: bold;
+}
+.reviewairlines{
+    text-align: right;
+    margin-right: 18px;
+    color: rgb(103, 88, 170);
+   
+}
+
+.reviewflight{
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     
+     margin-left: 530px;
+    color: rgb(103, 88, 170);
+}
+.reviewdate{
+    text-align: center;
+    margin-left: 4px;
+    color: rgb(103, 88, 170);
+
+}
+
+
+
+
+.reviewticketnumber{
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     
+     margin-left: 530px;
+    color: rgb(103, 88, 170);
+
+}
+.reviewconfirmnumber{
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     
+     margin-left: 530px;
+    color: rgb(103, 88, 170);
+}
+.reviewfetchconfirm{
+    text-align: center;
+    margin-left: 4px;
+    color: rgb(103, 88, 170);
+}
+.reviewfetchticket{
+    text-align: center;
+    margin-left: 4px;
+    color: rgb(103, 88, 170);
+}
+.reviewreply{
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+     
+     margin-left: 530px;
+    color: rgb(103, 88, 170);
+}
+.reviewfetchreply{
+    text-align: center;
+    margin-left: 4px;
+    color: rgb(103, 88, 170);
+}
+.reviewcomment{
+    text-align: right;
+    margin-top: -426px;
+    margin-right: 100px;
+    color: rgb(103, 88, 170);
+    font-weight: bold;
+
+}
+.reviewfetchcomment{
+    
+    text-align: right;
+    color: rgb(103, 88, 170);
+    margin-left: 906px;
+    word-break: break-all;
+    inline-size: 270px;
+}
+.reviewattachments{
+    text-align: right;
+    margin-top: 68px;
+    margin-right: 66px;
+    color: rgb(103, 88, 170);
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.revattachments{
+    text-align: right;
+    margin-right: 104px;
+    color: rgb(103, 88, 170);
+}
+.reviewfinal{
+    background-color: red;
+    padding: 15px 80px;
+    color:wheat;
+    font-weight: bold;
+    border:none;
+    margin-right: 190px;
+    float: right;
+    margin-bottom: 40px;
+}
+.revieweditpersonal{
+    margin-top: 38px;
+    margin-left:-270px;
+    background-color: white;
+    border:none;
+    float: left;
+    color: rgb(103, 88, 170);
+    cursor: pointer;
+}
+
+.revieweditcomment{
+    margin-top: 38px;
+    margin-left:-223px;
+    background-color: white;
+    border:none;
+    float: left;
+    color: rgb(103, 88, 170);
+    cursor: pointer;
+}
+
+
+ 
+.stepul{
+    text-align: right;
+    position: relative;
+    overflow: hidden;
+  }
+  .stepul:before{
+    content: '';
+    width: 42%;
+    border: 1px solid rgb(161, 171, 180);
+    position: absolute;
+    top: 1em;
+    margin-top: -2px;
+    z-index: -1;
+    margin-left: 96px;
+  }
+ 
+  
+  .lir1{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+    border: 2px solid rgb(11, 42, 73);
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .lir2{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+   
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .lir3{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+  
+    background: rgb(11, 42, 73);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+  .lir4{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+    background: rgb(162, 171, 190);
+    margin: 0 5em;
+    display: inline-block;
+    color: white;
+  }
+
+ 
+  /* body {
+    font-family: sans-serif;
+    padding: 2em;
+  }
+   */
+  .personallir{
+margin-right: 108px;
+display: inline;
+font-weight: bold;
+  }
+  .commentlir{
+    margin-right: 120px;
+    display: inline;
+    font-weight: bold;
+  }
+  .reviewlir{
+    margin-right: 96px;
+    display: inline;
+    font-weight: bold;
+  }
+  .confirmationlir{
+    margin-right: 64px;
+    display: inline;
+  }
+
+  .stepsdiv{
+      text-align: right;
+      margin-top: -70px;
+  }
